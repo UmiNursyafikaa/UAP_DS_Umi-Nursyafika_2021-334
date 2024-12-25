@@ -46,8 +46,8 @@ Kedua model ini dilatih menggunakan dataset augmented untuk meningkatkan akurasi
 
 ## Link Pembuatan Model
 
-Model VGG16**(https://colab.research.google.com/drive/1NKFHV0IHULd5bYxTijs1g83_aoHXMNWo?usp=sharing)**
-Model GoogLeNet**(https://colab.research.google.com/drive/1GM1-XIHjKrXisE8-iAMrcKLAFpukZ4rX?usp=sharing)**
+Model VGG16 : [VGG16](https://colab.research.google.com/drive/1NKFHV0IHULd5bYxTijs1g83_aoHXMNWo?usp=sharing)
+Model GoogLeNet: [GoogLeNet](https://colab.research.google.com/drive/1GM1-XIHjKrXisE8-iAMrcKLAFpukZ4rX?usp=sharing)
 
 ## Link Aplikasi Web
 
