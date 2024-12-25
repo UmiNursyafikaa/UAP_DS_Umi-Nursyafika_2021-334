@@ -32,11 +32,11 @@ Untuk meningkatkan performa model, dilakukan augmentasi pada data training sehin
 Aplikasi ini juga dapat diakses melalui [Streamlit Cloud](https://webprediksibunga-umi.streamlit.app/).
 
 ## Pustaka Yang Diperlukan
-**Streamlit** : Digunakan untuk membuat aplikasi web interaktif.
-**TensorFlow** : Digunakan untuk memuat model deep learning dan melakukan prediksi.
-**NumPy** : Digunakan untuk manipulasi array dan operasi numerik.
-**Pillow** : Digunakan untuk memproses dan memanipulasi gambar.
-**FungsiPreprocessing** : Digunakan untuk mempersiapkan gambar sesuai dengan standar model GoogleNet. Fungsi ini sudah termasuk dalam pustaka TensorFlow.
+- **Streamlit** : Digunakan untuk membuat aplikasi web interaktif.
+- **TensorFlow** : Digunakan untuk memuat model deep learning dan melakukan prediksi.
+- **NumPy** : Digunakan untuk manipulasi array dan operasi numerik.
+- **Pillow** : Digunakan untuk memproses dan memanipulasi gambar.
+- **FungsiPreprocessing** : Digunakan untuk mempersiapkan gambar sesuai dengan standar model GoogleNet. Fungsi ini sudah termasuk dalam pustaka TensorFlow.
 
 ## Deskripsi Model
 
