@@ -40,9 +40,10 @@ Proyek ini menggunakan dua model transfer learning:
 
 Kedua model ini dilatih menggunakan dataset augmented untuk meningkatkan akurasi dalam klasifikasi bunga.
 
-## Hasil dan Analisis
+## Hasil Akurasi dan Analisis
 
-**(Bagian ini akan dilengkapi dengan gambar hasil analisis dan evaluasi model)**
+![Gambar](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/googleNet.1.png)
+
 
 ## Link Pembuatan Model
 
