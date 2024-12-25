@@ -56,7 +56,7 @@ Kedua model ini dilatih menggunakan dataset augmented untuk meningkatkan akurasi
 
 ![HasilApp](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/hasilApp.png)
 
-![HasilRun]()
+![HasilRun](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/hasilRun.jpg)
 
 
 
