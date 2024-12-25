@@ -56,11 +56,6 @@ Kedua model ini dilatih menggunakan dataset augmented untuk meningkatkan akurasi
 
 ![Gambar3](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/vgg16.3.png)
 
-### Gambar Hasil App
-![HasilApp](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/hasilApp.png)
-
-![HasilRun](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/hasilRun.jpg)
-
 ### Hasil dan Analisis
 1.Perbandingan Akurasi
 GoogleNet:
@@ -103,10 +98,6 @@ GoogleNet adalah pilihan yang baik jika efisiensi komputasi menjadi prioritas, t
 VGG16 lebih unggul dalam hal akurasi (83%) dan metrik evaluasi lainnya, membuatnya pilihan yang lebih baik jika tujuan utama adalah akurasi, asalkan hardware mendukung.
 Rekomendasi: Jika Anda memerlukan model yang ringan dan cepat untuk implementasi nyata, gunakan GoogleNet. Namun, untuk keperluan akurasi tinggi seperti riset atau pengembangan lebih lanjut, pilih VGG16.
 
-
-
-
-
 ## Link Pembuatan Model
 
 Model VGG16 : [VGG16](https://colab.research.google.com/drive/1NKFHV0IHULd5bYxTijs1g83_aoHXMNWo?usp=sharing)
@@ -117,9 +108,10 @@ Model GoogLeNet: [GoogLeNet](https://colab.research.google.com/drive/1GM1-XIHjKr
 Aplikasi web dapat diakses melalui link berikut: [Streamlit Web App](https://webprediksibunga-umi.streamlit.app/)
 
 ## Tampilan Web
+![HasilApp](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/hasilApp.png)
 
-**(Bagian ini akan dilengkapi dengan gambar tampilan aplikasi web)**
+![HasilRun](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/hasilRun.jpg)
 
 ## Author
 
-Dibuat oleh [Nama Anda](https://github.com/username).
+Dibuat oleh [Umi Nursyafika](https://github.com/UmiNursyafikaa).
