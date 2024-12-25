@@ -64,7 +64,7 @@ Kedua model ini dilatih menggunakan dataset augmented untuk meningkatkan akurasi
 ![Gambar3](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/vgg16.3.png)
 
 ### Hasil dan Analisis
-1.Perbandingan Akurasi
+**1**.Perbandingan Akurasi
 GoogleNet:
 Train Accuracy meningkat secara konsisten hingga mencapai lebih dari 80%.
 Validation Accuracy stabil di sekitar 79%-80% setelah beberapa epoch.
@@ -74,7 +74,7 @@ Validation Accuracy mencapai nilai lebih tinggi dibanding GoogleNet, yaitu 83%.
 Kesimpulan:
 VGG16 memiliki akurasi validasi yang lebih tinggi daripada GoogleNet, menunjukkan kemampuan generalisasi yang sedikit lebih baik. Namun, performa GoogleNet tetap kompetitif.
 
-2.Perbandingan Loss
+**2**.Perbandingan Loss
 GoogleNet:
 Train Loss dan Validation Loss menunjukkan tren menurun secara konsisten.
 Validation Loss mendekati Train Loss tanpa pola overfitting yang jelas.
@@ -84,7 +84,7 @@ Validation Loss juga menurun dan lebih rendah daripada Train Loss, menunjukkan b
 Kesimpulan:
 Kedua model menunjukkan tidak adanya overfitting, tetapi VGG16 tampaknya lebih unggul dalam menjaga hubungan antara train loss dan validation loss.
 
-3.Perbandingan Metrik Evaluasi
+**3**.Perbandingan Metrik Evaluasi
 GoogleNet:
 Accuracy keseluruhan: 79%.
 Precision, Recall, dan F1-Score per kelas berkisar antara 0.68 hingga 0.88, dengan kelas "rose" memiliki kinerja terendah.
@@ -96,7 +96,7 @@ Macro Avg dan Weighted Avg berada di sekitar 0.83, yang juga lebih baik dibandin
 Kesimpulan:
 VGG16 memiliki keunggulan dalam metrik evaluasi, dengan akurasi, precision, recall, dan F1-score yang lebih tinggi pada hampir semua kelas.
 
-4.Efisiensi Model
+**4**.Efisiensi Model
 GoogleNet dirancang untuk efisiensi dan kecepatan, memiliki lebih sedikit parameter dibandingkan VGG16. Ini membuatnya lebih ringan dan lebih cepat pada hardware yang terbatas.
 VGG16 adalah model yang lebih berat dengan lebih banyak parameter, tetapi dapat memberikan hasil yang lebih baik dalam hal akurasi jika hardware mendukung.
 
