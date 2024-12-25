@@ -1,1 +1,61 @@
-# UAP_DS_Umi-Nursyafika_2021-334
+# Identifikasi Jenis Bunga Hias
+
+## Deskripsi Proyek
+
+Proyek ini bertujuan untuk mengembangkan model machine learning yang dapat mengidentifikasi jenis bunga hias berdasarkan citra. Latar belakang dari proyek ini adalah untuk mempermudah pengenalan berbagai jenis bunga secara otomatis, yang dapat dimanfaatkan dalam berbagai bidang seperti pertanian, pendidikan, dan e-commerce.
+
+## Dataset
+
+Dataset yang digunakan dalam proyek ini berasal dari Kaggle: [Flowers Recognition Dataset](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition). Dataset ini terdiri dari 4,317 gambar bunga dari berbagai kategori. 
+
+Untuk meningkatkan performa model, dilakukan augmentasi pada data training sehingga jumlah data training bertambah menjadi 11,268 gambar.
+
+## Langkah Instalasi
+
+1. Clone repository ini ke komputer Anda:
+   ```bash
+   git clone https://github.com/username/repository-name.git
+   ```
+2. Masuk ke direktori project:
+   ```bash
+   cd repository-name
+   ```
+3. Pastikan Anda telah menginstal Python dan pip. Install dependencies yang dibutuhkan dengan:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Jalankan aplikasi menggunakan Streamlit:
+   ```bash
+   streamlit run app.py
+   ```
+
+Aplikasi ini juga dapat diakses melalui [Streamlit Cloud](https://uapandiaswad.streamlit.app/).
+
+## Deskripsi Model
+
+Proyek ini menggunakan dua model transfer learning:
+
+1. **GoogleNet**: Model ini merupakan arsitektur convolutional neural network yang efektif dalam klasifikasi gambar. Dikenal karena kompleksitasnya yang rendah namun memiliki performa yang tinggi.
+2. **VGG16**: Model ini memiliki arsitektur yang lebih dalam dibandingkan GoogleNet, dengan fokus pada ekstraksi fitur mendetail dari gambar.
+
+Kedua model ini dilatih menggunakan dataset augmented untuk meningkatkan akurasi dalam klasifikasi bunga.
+
+## Hasil dan Analisis
+
+**(Bagian ini akan dilengkapi dengan gambar hasil analisis dan evaluasi model)**
+
+## Link Pembuatan Model
+
+**(Link akan ditambahkan di sini)**
+
+## Link Aplikasi Web
+
+Aplikasi web dapat diakses melalui link berikut: [Streamlit Web App](https://uapandiaswad.streamlit.app/)
+
+## Tampilan Web
+
+**(Bagian ini akan dilengkapi dengan gambar tampilan aplikasi web)**
+
+## Author
+
+Dibuat oleh [Nama Anda](https://github.com/username).
