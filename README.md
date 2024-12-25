@@ -46,6 +46,8 @@ Kedua model ini dilatih menggunakan dataset augmented untuk meningkatkan akurasi
 
 ![Gambar2](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/googleNet.2.png)
 
+![Gambar3](https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334/blob/main/gambar/googleNet.3.png)
+
 
 ## Link Pembuatan Model
 
