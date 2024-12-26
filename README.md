@@ -110,6 +110,9 @@ Rekomendasi: Jika Anda memerlukan model yang ringan dan cepat untuk implementasi
 Model VGG16 : [VGG16](https://colab.research.google.com/drive/1NKFHV0IHULd5bYxTijs1g83_aoHXMNWo?usp=sharing)
 Model GoogLeNet: [GoogLeNet](https://colab.research.google.com/drive/1GM1-XIHjKrXisE8-iAMrcKLAFpukZ4rX?usp=sharing)
 
+## Link Pembuatan Model
+[Google Drive](https://drive.google.com/drive/folders/1V8T5qai3N8Ci3RI8cScxB2Uv_JoTvVch?usp=drive_link)
+
 ## Link Aplikasi Web
 
 Aplikasi web dapat diakses melalui link berikut: [Streamlit Web App](https://webprediksibunga-umi.streamlit.app/)
