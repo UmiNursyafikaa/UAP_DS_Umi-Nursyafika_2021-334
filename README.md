@@ -14,7 +14,7 @@ Untuk meningkatkan performa model, dilakukan augmentasi pada data training sehin
 
 1. Clone repository ini ke komputer Anda:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/UmiNursyafikaa/UAP_DS_Umi-Nursyafika_2021-334.git
    ```
 2. Masuk ke direktori project:
    ```bash
